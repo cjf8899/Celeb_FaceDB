@@ -12,5 +12,5 @@ Coming soon~
   * 자신의 크롬 버전을 찾고 chromedriver 다운로드
   * 크롬버젼 확인 링크 : chrome://settings/help  
   * chromedriver 다운로드 링크 : [chromedriver](https://chromedriver.chromium.org/downloads)
-<p align="center"><img src="./Crawling_demo.gif" width="50%" height="50%" title="70px" alt="memoryblock"></p>
+<p align="left"><img src="./Crawling_demo.gif" width="50%" height="50%" title="70px" alt="memoryblock"></p>
 
