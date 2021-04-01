@@ -4,7 +4,7 @@
 Coming soon~
 
 
-## 1. Crawling
+## 1. Images Crawling
 
 * 코드 및 Visual Studio Code, Python 다운로드
   * 크롤러 코드 다운로드 링크 : [WebCrawler_exe](https://github.com/cjf8899/WebCrawler_exe)
