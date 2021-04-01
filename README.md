@@ -38,4 +38,4 @@ Coming soon~
 
 ## 3. Category Classification tool
 * category tool은 이미지를 front, side, back, delete로 쉽게 분류
-<p align="left"><img src="https://user-images.githubusercontent.com/53032349/113265991-b37c6a80-930f-11eb-8a5a-91413df9b757.JPG" width="45%" height="45%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/113266035-bbd4a580-930f-11eb-89de-b78f9971018e.JPG" width="45%" height="45%" title="70px" alt="memoryblock"></p><br>
+<p align="left"><img src="https://user-images.githubusercontent.com/53032349/113265991-b37c6a80-930f-11eb-8a5a-91413df9b757.JPG" width="50%" height="50%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/113266035-bbd4a580-930f-11eb-89de-b78f9971018e.JPG" width="35%" height="35%" title="70px" alt="memoryblock"></p><br>
