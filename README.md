@@ -27,11 +27,15 @@ Coming soon~
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113262205-52eb2e80-930b-11eb-8730-ffe6e80c3291.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
 ### 2.1 Images Example
- * Front
+* Front
  <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263317-92664a80-930c-11eb-9c72-c0f133173aac.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p><br>
  
- * Side
+* Side
  <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263469-c6da0680-930c-11eb-9ce3-79afa3b251c2.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p><br>
  
- * Back
+* Back
  <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263555-e3763e80-930c-11eb-8aa2-bd2b9b35402d.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
+
+## 3. Category Classification tool
+* category tool은 이미지를 front, side, back, delete로 쉽게 분류
+<p align="left"><img src="https://user-images.githubusercontent.com/53032349/113265991-b37c6a80-930f-11eb-8a5a-91413df9b757.JPG" width="45%" height="45%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/113266035-bbd4a580-930f-11eb-89de-b78f9971018e.JPG" width="45%" height="45%" title="70px" alt="memoryblock"></p><br>
