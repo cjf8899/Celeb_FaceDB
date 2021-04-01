@@ -26,3 +26,6 @@ Coming soon~
   
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113262205-52eb2e80-930b-11eb-8730-ffe6e80c3291.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
+### 2.1 Images Example
+ * Front
+ <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263317-92664a80-930c-11eb-9c72-c0f133173aac.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
