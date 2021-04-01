@@ -18,4 +18,4 @@ Coming soon~
 ## 2. FAceDB Menual
 * 크롤링한 이미지를 front, side, back 폴더를 만든 후 사진을 구별하여 분류
 
-<p align="center"><img src="https://user-images.githubusercontent.com/53032349/113259936-a6a84880-9308-11eb-8988-e15e0b398c46.JPG" width="40%" height="40%" title="70px" alt="memoryblock">　<img src="https://user-images.githubusercontent.com/53032349/113259986-b889eb80-9308-11eb-8bf2-bddf5c284df2.png" width="40%" height="40%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/53032349/113259936-a6a84880-9308-11eb-8988-e15e0b398c46.JPG" width="40%" height="40%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/113259986-b889eb80-9308-11eb-8bf2-bddf5c284df2.png" width="40%" height="40%" title="70px" alt="memoryblock"></p>
