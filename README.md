@@ -40,4 +40,4 @@ Coming soon~
 * category tool은 이미지를 front, side, back, delete로 쉽게 분류
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113265991-b37c6a80-930f-11eb-8a5a-91413df9b757.JPG" width="40%" height="40%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/113266035-bbd4a580-930f-11eb-89de-b78f9971018e.JPG" width="30%" height="30%" title="70px" alt="memoryblock"></p><br>
 
-* 자세한 설명 링크 : [category tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
+* 자세한 설명 링크 : [Classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
