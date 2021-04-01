@@ -28,4 +28,10 @@ Coming soon~
 
 ### 2.1 Images Example
  * Front
- <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263317-92664a80-930c-11eb-9c72-c0f133173aac.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
+ <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263317-92664a80-930c-11eb-9c72-c0f133173aac.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p><br>
+ 
+ * Side
+ <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263469-c6da0680-930c-11eb-9ce3-79afa3b251c2.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p><br>
+ 
+ * Back
+ <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113263555-e3763e80-930c-11eb-8aa2-bd2b9b35402d.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
