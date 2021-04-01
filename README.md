@@ -24,5 +24,5 @@ Coming soon~
 * 검색어 인물 이외의 다른 사람이 존재해도 무방
   * 다른 인물은 **Etc** 로 분류
   
-<p align="left"><img src="https://user-images.githubusercontent.com/53032349/113262205-52eb2e80-930b-11eb-8730-ffe6e80c3291.JPG" width="45%" height="45%" title="70px" alt="memoryblock"></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/53032349/113262205-52eb2e80-930b-11eb-8730-ffe6e80c3291.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
