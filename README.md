@@ -1,4 +1,4 @@
-# Custom FaceDB
+# Create Celeb FaceDB
 ## Demo
 
 Coming soon~
@@ -43,3 +43,7 @@ Coming soon~
 * 자세한 설명 링크 : [Classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
 
 ## 4. Data Labeling 
+* 라벨은 PascalVOC 포멧에 따라 xml로 제작하였고, 필요에 따라 json파일로도 변환이 가능하다.
+ * xml -> json 링크 : [xml2json](https://github.com/knadh/xmlutils.py)
+### 4.1 Pretreatment
+* 
