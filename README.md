@@ -40,15 +40,15 @@ Coming soon~
 * category tool은 이미지를 front, side, back, delete로 쉽게 분류
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/113265991-b37c6a80-930f-11eb-8a5a-91413df9b757.JPG" width="40%" height="40%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/113266035-bbd4a580-930f-11eb-89de-b78f9971018e.JPG" width="30%" height="30%" title="70px" alt="memoryblock"></p><br>
 
-* 자세한 설명 링크 : [Classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
+* 자세한 설명 링크 및 코드 : [Classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
 
 ## 4. Data Labeling 
 * 라벨은 PascalVOC 포멧에 따라 xml로 제작하였고, 필요에 따라 json파일로도 변환이 가능하다.
- * xml -> json 링크 : [xml2json](https://github.com/knadh/xmlutils.py)
+  * xml -> json 링크 : [xml2json](https://github.com/knadh/xmlutils.py)
 
 ### 4.1 Pretreatment
 * 전처리 작업으로 RatinaFace를 이용하여 이미지에서 얼굴영역을 찾은 다음, xml에 위치정보를 저장한다.
- * RetinaFece 코드 링크 : [Pytorch_retinaface](https://github.com/biubug6/Pytorch_Retinaface)
+  * RetinaFece 코드 링크 : [Pytorch_retinaface](https://github.com/biubug6/Pytorch_Retinaface)
 
 ### 4.2 Work
 * 전처리 과정으로 대부분의 얼굴영역은 잡혔지만, 잡히지 않은 영역은 tool을 이용하여 작업하였다.
