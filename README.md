@@ -51,6 +51,6 @@ Coming soon~
 
 ### 4.2 Work
 * 전처리 과정으로 대부분의 얼굴영역은 잡혔지만, 잡히지 않은 영역은 tool을 이용하여 작업하였다.
- * tool 링크 : [labelImg](https://github.com/tzutalin/labelImg)
+ * tool 링크 : [labelImg](https://github.com/tzutalin/labelImg)<br>
 * 얼굴 영역을 드래그하여 선택하고 라벨을 입력한다. 라벨이 잘 못된 영역은 더블 클릭하여 수정한다.
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/114352339-b9433d00-9ba6-11eb-9cc7-52fc4206ff34.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
