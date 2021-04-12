@@ -45,6 +45,7 @@ Coming soon~
 ## 4. Data Labeling 
 * 라벨은 PascalVOC 포멧에 따라 xml로 제작하였고, 필요에 따라 json파일로도 변환이 가능하다.
  * xml -> json 링크 : [xml2json](https://github.com/knadh/xmlutils.py)
+
 ### 4.1 Pretreatment
 * 전처리 작업으로 RatinaFace를 이용하여 이미지에서 얼굴영역을 찾은 다음, xml에 위치정보를 저장한다.
  * RetinaFece 코드 링크 : [Pytorch_retinaface](https://github.com/biubug6/Pytorch_Retinaface)
