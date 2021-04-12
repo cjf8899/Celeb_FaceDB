@@ -57,4 +57,4 @@ Coming soon~
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/114352339-b9433d00-9ba6-11eb-9cc7-52fc4206ff34.JPG" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
 ### 4.3 Example
-<p align="left"><img src="https://user-images.githubusercontent.com/53032349/114357537-cf53fc00-9bac-11eb-812e-97158828be14.png" width="50%" height="50%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/114357767-1b06a580-9bad-11eb-8372-e0251c75eb5b.png" width="50%" height="50%" title="70px" alt="memoryblock"></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/53032349/114357537-cf53fc00-9bac-11eb-812e-97158828be14.png" width="45%" height="45%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/114357767-1b06a580-9bad-11eb-8372-e0251c75eb5b.png" width="45%" height="45%" title="70px" alt="memoryblock"></p>
