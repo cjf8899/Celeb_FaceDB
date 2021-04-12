@@ -75,8 +75,8 @@ Coming soon~
 | Task7 | ABC anchor (21명) | 2,514 |
 | Task8 | CBS anchor (21명) | 1,634 |
 
-<p align="right" color:"red">_red bb : target_</p><br>
-<p align="right">_blue bb : etc_</p>
+**_red bb : target_**<br>
+**_blue bb : etc_**
 
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/114359466-f9a6b900-9bae-11eb-8095-c62fdc17db41.png" width="45%" height="45%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/114359539-0a572f00-9baf-11eb-8170-c4cc709e1d9a.png" width="50%" height="50%" title="70px" alt="memoryblock"></p>
 
