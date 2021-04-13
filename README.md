@@ -61,6 +61,7 @@ Coming soon~
 <p align="left"><img src="https://user-images.githubusercontent.com/53032349/114357537-cf53fc00-9bac-11eb-812e-97158828be14.png" width="45%" height="45%" title="70px" alt="memoryblock">　　<img src="https://user-images.githubusercontent.com/53032349/114357767-1b06a580-9bad-11eb-8372-e0251c75eb5b.png" width="45%" height="45%" title="70px" alt="memoryblock"></p>
 
 ## 5. Result
+* Class : 200
 * Total Images : 29,266
 * xml : 29,266
 * json : 29,266
